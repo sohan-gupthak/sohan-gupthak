@@ -6,7 +6,7 @@
 ### <div align="center">I'm Sohan, a Fullstack Developer Intern at ANNAM.AI (MoE) 👨‍💻, I Love Contributing to Open Source</div>  
   
 
-- 🔭 I’m currently working on [ViBe](https://continuousactivelearning.github.io/vibe/)  
+- 🔭 I’m currently working on [ViBe](https://vicharanashala.github.io/vibe/)  
   
 
 - 🌱 I’m currently learning AI
